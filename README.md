@@ -1,2 +1,4 @@
-# STINTSY-Notebooks
-As requested by our professor, we are to upload our notebooks in GitHub and send them as a comment in the submission page. :p
+# STINTSY - Advanced Intelligent Systems // S17
+### Homssi, Yazan M.
+
+Here lies the python notebooks as requested by Sir Agarap :)
